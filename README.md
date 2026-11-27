@@ -1,18 +1,17 @@
 # AGUI
 
-AGUI is a Windows companion for Dota 2, with draft recommendations, in-match item and skill guidance, timing reminders, and post-match reviews. The interface and built-in reminder recordings support English, Chinese, and Russian.
+AGUI is a Windows companion for Dota 2, with ranked hero recommendations, in-match item and skill guidance, timing reminders, and post-match reviews. The interface and built-in reminder recordings support English, Chinese, and Russian.
 
 [Download the Windows installer](https://github.com/aguinotify-ux/agui-releases/releases/latest) · [Gitee downloads for mainland China](https://gitee.com/aguicoach/agui-releases/releases)
 
 ## What AGUI does
 
 - **Draft with your team in mind.** Choose your rank and role, confirm the visible picks and bans, and review hero matchups and team composition. Hero pools and preferences can narrow the suggestions.
-- **Plan the next purchase.** Item guidance considers your role, the revealed enemy lineup, gold, and owned components. The compact popup shows the next step and alternatives. Expand it to inspect the full build and the conditions for changing direction.
+- **Plan the next purchase.** Item guidance considers your role, the revealed enemy lineup, gold, and owned components. The compact popup shows the next item and its alternative, and Match Coach lets you skip the current target. Open the full route to see when to change direction.
 - **Check skill and talent choices.** View skill recommendations based on the matchup and reported skill levels, alongside the talent tree and neutral-item references.
 - **Keep track of match timings.** Configure advance reminders for runes, lotuses, wisdom, day and night, the first Tormentor, stacking, and rotations. Each language has ten built-in recordings. Voice and alert sounds are mutually exclusive. Custom reminders can repeat and use an installed Windows system voice when speech is enabled.
 - **Review your matches.** Inspect recorded stats, match events, and observed purchases. Available details depend on the game data received and any public records you choose to import.
-- **Use an optional AI coach.** Sign in to AGUI and add your own DeepSeek or Doubao API key. Enable AI-first recommendations for drafting, items, and opened match reviews. AGUI recommendations appear while AI is pending or unavailable, and the active recommendation provider is shown. Ask Coach supports questions about a live match or a selected review.
-- **Play Ability Draft.** Identify the visible skill pool, confirm the hero body and selected abilities, and inspect combination suggestions.
+- **Use an optional AI coach.** Sign in to AGUI and add your own DeepSeek, Doubao, or OpenAI API key. Enable AI-first recommendations for drafting, items, and opened match reviews. AGUI recommendations appear while AI is pending or unavailable, and the active recommendation provider is shown. Ask Coach supports questions about a live match or a selected review.
 
 ## First launch
 
